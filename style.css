@@ -1,0 +1,42 @@
+.sopra {
+    background-image: linear-gradient( rgba(245, 239, 239, 0.883), rgba(0, 0, 0, 0.5)),
+    url(ars-manifestazione.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: white;
+}
+
+.sito img {
+    width: 100%;
+}
+
+.iscrizione {
+    text-align: center;
+}
+
+.iscrizione img {
+    width: 60%;
+}
+
+.testo {
+    padding-top: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.bottone {
+    background-color: red;
+    text-align: center;
+    border: 5px solid rgb(158, 0, 0);
+    border-radius: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
