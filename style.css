@@ -31,7 +31,7 @@ h2 {
     padding-right: 2%;
 }
 
-.bottone {
+.faq {
     background-color: red;
     text-align: center;
     border: 5px solid rgb(158, 0, 0);
@@ -40,3 +40,15 @@ h2 {
     margin-bottom: 10px;
 }
 
+wth {
+    color: white;
+}
+
+.papero {
+    border: 3px solid black;
+    margin-bottom: 5px;
+}
+
+.domande {
+    margin: 5px;
+}
