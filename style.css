@@ -66,3 +66,19 @@ wth {
 .albicocco {
     background-color: rgba(128, 128, 128, 0.09);
 }
+
+.paperol text:hover {
+    background-color: rgba(128, 128, 128, 0.15);
+}
+
+.faq a:hover {
+    background-color: rgba(128, 128, 128, 0.15);
+}
+
+.iscrizione img:hover {
+    transform: scale(1.03);
+}
+
+.sito img:hover {
+    transform: scale(1.03);
+}
